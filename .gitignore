@@ -1,0 +1,7 @@
+venv
+.idea
+.pypirc
+setup.py
+dist
+invoicing_excel_2_pdf.egg-info
+
